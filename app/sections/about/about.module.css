@@ -1,0 +1,49 @@
+.about_wrap {
+    display: flex;
+    justify-content: space-between;
+}
+
+.about_wrap article {}
+
+.pic {}
+
+.desc {
+    width: 600px;
+}
+
+.desc h3 {
+    font-size: 60px;
+    border-bottom: 1px solid #dcdcdc;
+    display: block;
+    color: rgb(125, 207, 240);
+    height: 120px;
+}
+
+.desc span {
+    font-size: 20px;
+    color: initial;
+    margin-left: 10px;
+}
+
+.desc ul {
+    padding: 40px 0;
+}
+
+.desc ul li {
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.desc ul li b {
+    display: inline-block;
+    width: 100px;
+}
+
+.desc ul li strong {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.about_bottom {
+    text-align: right;
+}

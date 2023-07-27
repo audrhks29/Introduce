@@ -1,6 +1,6 @@
 import styles from './project.module.css'
 
-export const index = () => {
+export const Project = () => {
     return (
         <div>
 

@@ -1,0 +1,5 @@
+export { About } from './about'
+export { Career } from './career'
+export { Project } from './project'
+export { Skills } from './skill'
+export { Visual } from './visual'

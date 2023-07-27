@@ -1,6 +1,6 @@
 import styles from './career.module.css'
 
-export const index = () => {
+export const Career = () => {
     return (
         <div>
 

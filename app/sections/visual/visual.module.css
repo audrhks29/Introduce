@@ -1,0 +1,32 @@
+.visual {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(/images/visual/main01.jpg);
+    width: 100%;
+    background-position: 600px 0;
+    background-color: rgb(46, 46, 46);
+}
+
+.visual_inner {
+    height: 1080px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.visual_inner h2 {
+    line-height: 1.2;
+    font-size: 120px;
+    font-weight: 700;
+}
+
+.visual_inner h2 span {
+    display: block;
+    color: rgb(125, 207, 240);
+}
+
+.visual_inner p {
+    font-size: 30px;
+    color: white;
+    opacity: 0.7;
+}
