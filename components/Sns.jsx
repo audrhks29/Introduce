@@ -7,7 +7,7 @@ export const Sns = () => {
         <ul className={styles.sns}>
             {
                 SNS_OPTIONS.map(item => (
-                    <li><a href={item.url} target="_blank">{item.icon}</a></li>
+                    <li key={item.id}><a href={item.url} target="_blank">{item.icon}</a></li>
                 ))
             }
         </ul>
