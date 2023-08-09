@@ -20,14 +20,15 @@ function Ani({ children }) {
     </div>
   );
 }
+
 export default function Home() {
   return (
     <main className={styles.main}>
       <Ani><Visual /></Ani>
       <Ani><About /></Ani>
       <Ani><Skills /></Ani>
-      <Project />
-      <Career />
+      <Ani><Project /></Ani>
+      {/* <Career /> */}
     </main>
   )
 }

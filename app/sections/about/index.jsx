@@ -8,7 +8,7 @@ export const About = () => {
                 <div>
                     <div className={styles.about_wrap}>
                         <article className={styles.pic}>
-                            <img src="./images/about/img1.jpg" alt="" />
+                            <img src="./images/about/audrhks.png" alt="" style={{ width: 500 }} />
                         </article>
                         <article className={styles.desc}>
                             <h3>이명관<span>Myung-Kwan Lee</span></h3>
