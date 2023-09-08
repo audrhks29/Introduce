@@ -22,8 +22,7 @@ export const About = () => {
                                 <li><b>자격증</b>:<strong>컴퓨터활용능력2급</strong></li>
                             </ul>
                             <p>
-                                <a href="#" target='_blank'><i><AiFillGithub /></i></a>
-                                <a href="#" target='_blank'><i><AiFillGithub /></i></a>
+                                <a href="https://github.com/audrhks29" target='_blank'><i><AiFillGithub /></i></a>
                             </p>
                         </article>
                     </div>
